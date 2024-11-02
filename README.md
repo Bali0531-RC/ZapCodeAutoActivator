@@ -2,7 +2,7 @@
 Automatically activates zap-hosting.com codes for balance. (Login needed for cookie capcture)
 
 # THE PROGRAM REQUIRES HTTP PROXY TO USE (username:passoword@ip:port format, in the current version it works the best with rotating proxy so you can activate as mutch account as you want.) 
--# I will create a version without need of proxies
+I will create a version without need of proxies
 
 # How to setup?
 1. Download the files.
