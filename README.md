@@ -20,4 +20,9 @@ I will create a version without need of proxies
 
 
 # Why?
-- I only created this project cz I too lazy to wait x sec between codes, and copying everycode for account(s)... (yeah I dont have a life....)
+- I only created this project cz I too lazy to wait x sec between codes, and copying everycode for account(s), and just a fun project... (yeah I dont have a life....) 
+
+
+
+# Disclaimer:
+- If you are from zaphosting, and wants me to delete this project / set it to private, send me a message on discord (bali0531) and I will remove it... :/
