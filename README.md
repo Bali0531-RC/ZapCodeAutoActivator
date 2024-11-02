@@ -6,9 +6,9 @@ I will create a version without need of proxies
 
 # How to setup?
 1. Download the files.
-  1.a Install python (latest) ONLY if you dont have.
-  1.b Put your zaphosting codes to the coupons.txt (1 per line)
-  1.c Run the following commands in the folder of the downloaded files:
+  a. Install python (latest) ONLY if you dont have.
+  b. Put your zaphosting codes to the coupons.txt (1 per line)
+  c. Run the following commands in the folder of the downloaded files:
       - pip install -r requriements.txt
       - python main.py
 3. Log in to your zap hosting account in the popup chrome window.
