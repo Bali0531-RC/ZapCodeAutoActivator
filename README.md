@@ -17,3 +17,7 @@ I will create a version without need of proxies
 
 # Troubleshooting guide
 - If you stuck on cloudflare captcha, just open an other windows, go to https://zap-hosting.com/ complete chapctha, go back to the first tab, do the capctha and done. You can log in now. (DO NOT use another windows to login otherwise it will fail to get cookies)
+
+
+# Why?
+- I only created this project cz I too lazy to wait x sec between codes, and copying everycode for account(s)... (yeah I dont have a life....)
